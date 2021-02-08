@@ -6,5 +6,3 @@ The app includes the usage of Firebase ML kit for text detection, SQflite for st
 
 The stacked and stacked_services packages were mainly used for the architecture.
 
-## In App Screenshots
-
